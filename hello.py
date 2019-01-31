@@ -1,3 +1,4 @@
-#for command line git tutorial
-#Local respoistory modification
+#For command line git tutorial
+#First: GitHub modification
+#Second: Local respoistory modification
 print("HELLO WORLD")
